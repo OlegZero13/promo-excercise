@@ -13,3 +13,4 @@ jupyterlab==3.0.16
 jupyterlab-pygments==0.1.2
 jupyterlab-server==2.6.0
 jupyterlab-widgets==1.0.0
+xgboost==1.4.2
