@@ -3,7 +3,7 @@
 
 ## Project setup
 The project uses python 3.8.5 You need to have it installed on your machine.
-In order to run you need for fetch the dataset (requires setting up an account at Data World)
+In order to run you need for fetch the dataset (requires Kaggle account)
 and creating a virtual environment.
 
 ### Fetching the dataset
